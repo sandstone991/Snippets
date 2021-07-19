@@ -11,7 +11,7 @@ return(x)
 }
 return evenSquare(x,y-x);
 }
-else{return 1;}
+else{return x;}
 }
 let c=evenSquare(x,y);
 console.log(c);
